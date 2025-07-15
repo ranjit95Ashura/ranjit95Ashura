@@ -1,4 +1,4 @@
-<div style="width:100%; display:flex; align-items:center; justify-content:center;"><h1 align="center">Hi , I'm Ranjit Suryawanshi <img src="https://github.com/ranjit95s/Twitter-r95s/assets/74762032/a7cd2180-ba4f-454d-8868-8cfb1150ff15" width="55"></h1> </div>
+<div style="width:100%; display:flex; align-items:center; justify-content:center;"><h1 align="center">Hi , I'm Ranjit Suryawanshi </h1> </div>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
